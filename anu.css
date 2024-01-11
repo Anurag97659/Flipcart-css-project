@@ -1,0 +1,219 @@
+*{  
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+    margin: 0px;
+    padding: 0px; 
+    background-color: aliceblue;        
+}
+
+/* -----------------------------------------------NAVBAR---------------------------------------------- */
+
+#top{
+    height: 67px;
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+#logo{
+    width: 140px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+#search{
+    background-color: white;
+}
+
+#se1{
+    width: 690px;
+    height: 36px;
+    margin-left: 40px;
+    margin-top: 15px;
+    border-radius: 5px;
+    border-color: aliceblue;
+    border: 0px;
+    font-size: 17px;
+}
+#user{
+    width: 130px ;
+    height: 40px;
+    margin-top: 15px;
+}
+#cart{
+    width: 100px ;
+    height: 40px;
+    margin-top: 15px;
+}
+#seller{
+    width: 170px ;
+    height: 40px;
+    margin-top: 15px;
+}
+#dots{
+    width: 70px ;
+    height: 40px;
+    margin-top: 15px;
+}
+
+/* ---------------------------------------------head------------------------------------------------ */
+
+#head1{
+    width: 97%;
+    height: 130px;
+    background-color: white;
+    display: flex;
+    /* justify-content: center; */
+    margin-top: 10px;
+    margin-left: 20px;
+}
+#photo{
+    width: 85%;
+    margin-left: 100px;
+    height: 100px;
+    margin-top: 15px;
+}
+
+/* -----------------------------------------------------advertisement---------------------------------------- */
+
+#ad{
+    width: 98.5%;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+#an1{
+    width: 98.5%;
+}
+
+/* --------------------------------------------------------Marketing 1------------------------------------------- */
+
+#market1{
+    display: flex;
+    flex-direction: column;
+    width: 97%;
+    margin-top: 15px;
+    margin-left: 20px;
+    height: 350px;
+    background-color: white;
+}
+
+#ma1{
+    background-color: white;
+    margin-top:20px ;
+    margin-left: 15px;
+    font-weight: bold;
+    font-size: large;
+}
+#ma2{
+    display: flex;
+    background-color: white;
+}
+#mt1{
+    margin-left: 10px;
+    width: 200px;
+    height:250px ;
+    margin-top: 45px;
+}
+#mt3{
+    margin-left: 8px;
+    width: 200px;
+    height:250px ;
+    margin-top: 45px;
+}
+#mt4{
+    margin-left: 8px;
+    width: 200px;
+    height:250px ;
+    margin-top: 45px;
+}
+#mt5{
+    margin-left: 8px;
+    width: 200px;
+    height:250px ;
+    margin-top: 45px;
+}
+#mt6{
+    margin-left: 8px;
+    width: 200px;
+    height:250px ;
+    margin-top: 45px;
+}
+#mt2{
+    margin-left: 8px;
+    width: 200px;
+    height:250px ;
+    margin-top: 45px;
+}
+#mt00{
+    margin-left: 6px;
+    width: 180px;
+    height:250px ;
+    margin-top: 45px;
+}
+
+/* --------------------------------------------------------Marketing 2------------------------------------------- */
+
+#mark{
+    display: flex;
+    flex-direction: column;
+    width: 97%;
+    margin-top: 15px;
+    margin-left: 20px;
+    height: 350px;
+    background-color: white;
+}
+#mark1{
+    background-color: white;
+    margin-top:20px ;
+    margin-left: 15px;
+    font-weight: bold;
+    font-size: large;
+}
+#mark2{
+    display: flex;
+    background-color: white;
+}
+
+#mt7{
+    margin-left: 10px;
+    width: 200px;
+    height:250px ;
+    margin-top: 45px;
+}
+#mt8{
+    margin-left: 8px;
+    width: 200px;
+    height:250px ;
+    margin-top: 45px;
+}
+#mt9{
+    margin-left: 8px;
+    width: 200px;
+    height:250px ;
+    margin-top: 45px;
+}
+#mt10{
+    margin-left: 8px;
+    width: 200px;
+    height:250px ;
+    margin-top: 45px;
+}
+#mt11{
+    margin-left: 8px;
+    width: 200px;
+    height:250px ;
+    margin-top: 45px;
+}
+#mt12{
+    margin-left: 8px;
+    width: 200px;
+    height:250px ;
+    margin-top: 45px;
+}
+#mt01{
+    margin-left: 6px;
+    width: 180px;
+    height:250px ;
+    margin-top: 45px;
+}
